@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 600" width="400" height="600" role="img" aria-label="The Night Shift at Hollow Pines cover">
+<defs><linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(9,35%,35%)"/><stop offset="1" stop-color="hsl(37,40%,13%)"/></linearGradient>
+<linearGradient id="s" x1="0" y1="0" x2="0" y2="1"><stop offset=".45" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".6"/></linearGradient></defs>
+<rect width="400" height="600" fill="url(#g)"/>
+<g transform="translate(203 220) scale(1.03)"><circle cx="-60" cy="-80" r="60" fill="hsl(19,60%,80%)" opacity=".85"/><g stroke="hsl(0,10%,5%)" stroke-width="12" stroke-linecap="round" fill="none"><path d="M0 130 L0 -10"/><path d="M0 40 L-70 -20 L-95 -70"/><path d="M0 20 L65 -35 L100 -60"/><path d="M0 -10 L-30 -70 L-20 -110"/><path d="M0 -5 L40 -70"/></g></g>
+<rect width="400" height="600" fill="url(#s)"/>
+<rect x="14" y="14" width="372" height="572" rx="10" fill="none" stroke="#fff" stroke-opacity=".35" stroke-width="2"/>
+<text x="200" y="52" text-anchor="middle" font-family="Georgia, serif" font-size="15" letter-spacing="4" fill="#fff" opacity=".85">HORROR</text>
+<text x="200" y="448" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-weight="700" font-size="32" fill="#fff"><tspan x="200" dy="0">The Night Shift</tspan><tspan x="200" dy="38">at Hollow Pines</tspan></text>
+<line x1="150" y1="535" x2="250" y2="535" stroke="#fff" stroke-opacity=".6" stroke-width="2"/>
+<text x="200" y="565" text-anchor="middle" font-family="Georgia, serif" font-style="italic" font-size="18" fill="#fff" opacity=".95">Dorian Blackwood</text>
+</svg>

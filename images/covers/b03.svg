@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 600" width="400" height="600" role="img" aria-label="Coffee at Midnight cover">
+<defs><linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(354,55%,35%)"/><stop offset="1" stop-color="hsl(22,60%,13%)"/></linearGradient>
+<linearGradient id="s" x1="0" y1="0" x2="0" y2="1"><stop offset=".45" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".6"/></linearGradient></defs>
+<rect width="400" height="600" fill="url(#g)"/>
+<g transform="translate(200 225) scale(1.00)"><path d="M0 70 C-130 -20 -70 -120 0 -55 C70 -120 130 -20 0 70Z" fill="hsl(4,80%,80%)" opacity=".9"/><path transform="translate(-45 -8) scale(0.3182181093054187)" d="M0 70 C-130 -20 -70 -120 0 -55 C70 -120 130 -20 0 70Z" fill="hsl(4,80%,80%)" opacity=".5"/><path transform="translate(149 -91) scale(0.1540691595548709)" d="M0 70 C-130 -20 -70 -120 0 -55 C70 -120 130 -20 0 70Z" fill="hsl(4,80%,80%)" opacity=".5"/><path transform="translate(79 -43) scale(0.3298637986703312)" d="M0 70 C-130 -20 -70 -120 0 -55 C70 -120 130 -20 0 70Z" fill="hsl(4,80%,80%)" opacity=".5"/><path transform="translate(-31 31) scale(0.22704700115234858)" d="M0 70 C-130 -20 -70 -120 0 -55 C70 -120 130 -20 0 70Z" fill="hsl(4,80%,80%)" opacity=".5"/><path transform="translate(73 -36) scale(0.27828131212781715)" d="M0 70 C-130 -20 -70 -120 0 -55 C70 -120 130 -20 0 70Z" fill="hsl(4,80%,80%)" opacity=".5"/></g>
+<rect width="400" height="600" fill="url(#s)"/>
+<rect x="14" y="14" width="372" height="572" rx="10" fill="none" stroke="#fff" stroke-opacity=".35" stroke-width="2"/>
+<text x="200" y="52" text-anchor="middle" font-family="Georgia, serif" font-size="15" letter-spacing="4" fill="#fff" opacity=".85">ROMANCE</text>
+<text x="200" y="448" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-weight="700" font-size="36" fill="#fff"><tspan x="200" dy="0">Coffee at</tspan><tspan x="200" dy="42">Midnight</tspan></text>
+<line x1="150" y1="535" x2="250" y2="535" stroke="#fff" stroke-opacity=".6" stroke-width="2"/>
+<text x="200" y="565" text-anchor="middle" font-family="Georgia, serif" font-style="italic" font-size="18" fill="#fff" opacity=".95">Julian Hart</text>
+</svg>

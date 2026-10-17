@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 600" width="400" height="600" role="img" aria-label="Mango Season cover">
+<defs><linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(155,55%,35%)"/><stop offset="1" stop-color="hsl(183,60%,13%)"/></linearGradient>
+<linearGradient id="s" x1="0" y1="0" x2="0" y2="1"><stop offset=".45" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".6"/></linearGradient></defs>
+<rect width="400" height="600" fill="url(#g)"/>
+<g transform="translate(210 236) scale(0.91)"><polygon points="-70,-150 70,-150 150,130 -150,130" fill="hsl(165,80%,80%)" opacity=".25"/><path d="M-190 -170 Q-120 -50 -190 150 L-120 150 Q-90 -40 -120 -170Z" fill="hsl(155,40%,12%)"/><path d="M190 -170 Q120 -50 190 150 L120 150 Q90 -40 120 -170Z" fill="hsl(155,40%,12%)"/><circle cy="30" r="40" fill="hsl(165,80%,80%)"/><rect x="-10" y="68" width="20" height="60" fill="hsl(165,80%,80%)"/></g>
+<rect width="400" height="600" fill="url(#s)"/>
+<rect x="14" y="14" width="372" height="572" rx="10" fill="none" stroke="#fff" stroke-opacity=".35" stroke-width="2"/>
+<text x="200" y="52" text-anchor="middle" font-family="Georgia, serif" font-size="15" letter-spacing="4" fill="#fff" opacity=".85">DRAMA</text>
+<text x="200" y="470" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-weight="700" font-size="36" fill="#fff"><tspan x="200" dy="0">Mango Season</tspan></text>
+<line x1="150" y1="535" x2="250" y2="535" stroke="#fff" stroke-opacity=".6" stroke-width="2"/>
+<text x="200" y="565" text-anchor="middle" font-family="Georgia, serif" font-style="italic" font-size="18" fill="#fff" opacity=".95">Teresita Bautista</text>
+</svg>

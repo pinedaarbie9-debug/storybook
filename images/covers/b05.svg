@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 600" width="400" height="600" role="img" aria-label="The Lantern Keeper of Eldmoor cover">
+<defs><linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(256,55%,35%)"/><stop offset="1" stop-color="hsl(284,60%,13%)"/></linearGradient>
+<linearGradient id="s" x1="0" y1="0" x2="0" y2="1"><stop offset=".45" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".6"/></linearGradient></defs>
+<rect width="400" height="600" fill="url(#g)"/>
+<g transform="translate(206 225) scale(1.05)"><circle cx="70" cy="-70" r="55" fill="hsl(266,80%,80%)" opacity=".95"/><circle cx="95" cy="-85" r="48" fill="hsl(270,40%,18%)"/><g fill="hsl(270,35%,10%)"><rect x="-110" y="-10" width="220" height="110"/><rect x="-130" y="-60" width="45" height="160"/><rect x="85" y="-60" width="45" height="160"/><polygon points="-140,-60 -107,-120 -75,-60"/><polygon points="75,-60 107,-120 140,-60"/><polygon points="-40,-10 0,-90 40,-10"/></g><rect x="-8" y="30" width="16" height="30" fill="hsl(266,80%,80%)"/></g>
+<rect width="400" height="600" fill="url(#s)"/>
+<rect x="14" y="14" width="372" height="572" rx="10" fill="none" stroke="#fff" stroke-opacity=".35" stroke-width="2"/>
+<text x="200" y="52" text-anchor="middle" font-family="Georgia, serif" font-size="15" letter-spacing="4" fill="#fff" opacity=".85">FANTASY</text>
+<text x="200" y="426" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-weight="700" font-size="36" fill="#fff"><tspan x="200" dy="0">The Lantern</tspan><tspan x="200" dy="42">Keeper of</tspan><tspan x="200" dy="42">Eldmoor</tspan></text>
+<line x1="150" y1="535" x2="250" y2="535" stroke="#fff" stroke-opacity=".6" stroke-width="2"/>
+<text x="200" y="565" text-anchor="middle" font-family="Georgia, serif" font-style="italic" font-size="18" fill="#fff" opacity=".95">Rowan Ashby</text>
+</svg>

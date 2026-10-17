@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Explore Books — Storybook</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body data-page="explore">
+  <header class="site-header" id="site-header"></header>
+  <main>
+    <div class="container">
+      <div class="page-title">
+        <h1>Explore books</h1>
+        <p class="muted">Search, filter, and sort all 30 stories.</p>
+      </div>
+      <section aria-label="Search and filters">
+        <div class="toolbar">
+          <form class="search-form" id="search-form" role="search">
+            <label for="q" style="position:absolute;left:-9999px">Search by title, author, or genre</label>
+            <input id="q" type="search" placeholder="Search by title, author, or genre…" autocomplete="off">
+          </form>
+          <div style="display:flex;gap:8px;flex-wrap:wrap">
+            <label for="sort" style="position:absolute;left:-9999px">Sort books</label>
+            <select class="select" id="sort">
+              <option value="recent">Recently added</option>
+              <option value="az">A–Z</option>
+              <option value="za">Z–A</option>
+              <option value="popular">Most liked</option>
+            </select>
+            <button class="chip" type="button" id="saved-toggle" aria-pressed="false">☆ Saved books</button>
+          </div>
+        </div>
+        <div class="chips" id="genre-chips"></div>
+      </section>
+      <p class="result-count muted" id="count" aria-live="polite"></p>
+      <section aria-label="Search results" style="padding-bottom:20px">
+        <div class="book-grid" id="results"></div>
+        <div class="empty" id="empty" hidden>
+          <h3>No books found</h3>
+          <p class="muted">Try a different title, author, or genre.</p>
+          <p style="margin-top:14px"><button class="btn" type="button" id="reset">Clear filters</button></p>
+        </div>
+      </section>
+    </div>
+  </main>
+  <footer class="site-footer" id="site-footer"></footer>
+  <script src="js/data-a.js"></script>
+  <script src="js/data-b.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

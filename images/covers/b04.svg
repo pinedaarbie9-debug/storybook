@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 600" width="400" height="600" role="img" aria-label="A Season for Second Chances cover">
+<defs><linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="hsl(8,55%,35%)"/><stop offset="1" stop-color="hsl(36,60%,13%)"/></linearGradient>
+<linearGradient id="s" x1="0" y1="0" x2="0" y2="1"><stop offset=".45" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".6"/></linearGradient></defs>
+<rect width="400" height="600" fill="url(#g)"/>
+<g transform="translate(209 231) scale(0.97)"><path d="M0 70 C-130 -20 -70 -120 0 -55 C70 -120 130 -20 0 70Z" fill="hsl(18,80%,80%)" opacity=".9"/><path transform="translate(10 -120) scale(0.22622500316586697)" d="M0 70 C-130 -20 -70 -120 0 -55 C70 -120 130 -20 0 70Z" fill="hsl(18,80%,80%)" opacity=".5"/><path transform="translate(-92 52) scale(0.2670485188104298)" d="M0 70 C-130 -20 -70 -120 0 -55 C70 -120 130 -20 0 70Z" fill="hsl(18,80%,80%)" opacity=".5"/><path transform="translate(118 -100) scale(0.2683696623106325)" d="M0 70 C-130 -20 -70 -120 0 -55 C70 -120 130 -20 0 70Z" fill="hsl(18,80%,80%)" opacity=".5"/><path transform="translate(-40 62) scale(0.22294735123169554)" d="M0 70 C-130 -20 -70 -120 0 -55 C70 -120 130 -20 0 70Z" fill="hsl(18,80%,80%)" opacity=".5"/><path transform="translate(166 -51) scale(0.23853561301993587)" d="M0 70 C-130 -20 -70 -120 0 -55 C70 -120 130 -20 0 70Z" fill="hsl(18,80%,80%)" opacity=".5"/></g>
+<rect width="400" height="600" fill="url(#s)"/>
+<rect x="14" y="14" width="372" height="572" rx="10" fill="none" stroke="#fff" stroke-opacity=".35" stroke-width="2"/>
+<text x="200" y="52" text-anchor="middle" font-family="Georgia, serif" font-size="15" letter-spacing="4" fill="#fff" opacity=".85">ROMANCE</text>
+<text x="200" y="448" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-weight="700" font-size="32" fill="#fff"><tspan x="200" dy="0">A Season for</tspan><tspan x="200" dy="38">Second Chances</tspan></text>
+<line x1="150" y1="535" x2="250" y2="535" stroke="#fff" stroke-opacity=".6" stroke-width="2"/>
+<text x="200" y="565" text-anchor="middle" font-family="Georgia, serif" font-style="italic" font-size="18" fill="#fff" opacity=".95">Eleanor Whitfield</text>
+</svg>
